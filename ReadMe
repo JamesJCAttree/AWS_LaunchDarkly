@@ -1,4 +1,12 @@
-Restuarant 
+We built an agent for named 'agent-coffee-bot' in  Amazon Bedrock. 
+The agent is responsible for coordinating the requests from the user and responses from the restaurant 
 
+The agent uses customer requests to create a prompt. It, then, uses the API schema to invoke
+corresponding code in the Lambda function.
 
 Created By:
+Ramkumar Venkatesan 
+Swetha Ganapathi Raman
+James Attree
+Shweta Shroff
+
