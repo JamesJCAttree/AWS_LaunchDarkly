@@ -4,8 +4,9 @@ The coffe bot interacts with the users to place orders for drinks in the cafe.
 To emulate the cafe's ordering system, agents are created on Amazon Bedrcock that can invoke
 custom functions to create, edit, clear and confirm customer's orders.
 
-[![Demo](https://img.youtube.com/vi/G3BI3gF8xqo/0.jpg)]
-(https://youtu.be/G3BI3gF8xqo)
+![Screenshot] (https://github.com/JamesJCAttree/AWS_LaunchDarkly/blob/main/chat_img.jpeg?raw=true)
+
+Demo video : https://youtu.be/G3BI3gF8xqo
 
 Created By:
 Ramkumar Venkatesan 
